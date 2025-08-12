@@ -5,7 +5,7 @@
 💻 I’m passionate about **technology and AI**
 
 🌱 Currently learning:  
-Python • SQL • Machine Learning • Natural Language Processing (NLP)
+Python • SQL • HTML • CSS • Machine Learning • Natural Language Processing (NLP)
 
 🛠️ Tools:  
 MySQL • SSMS • C++ • Python
