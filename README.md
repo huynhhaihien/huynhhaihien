@@ -11,7 +11,7 @@ Python • SQL • HTML • CSS • Machine Learning • Natural Language Proces
 MySQL • SSMS • C++ • Python
 
 🎨 I’m also interested in exploring creative fields such as:  
-🎶 Music • 🖌️ Drawing • 📸 Photography • 🍰 Baking
+🎶 Music •  📖 Poetry • 📸 Photography • 🍰 Baking • 🖌️ Drawing 
 
 💡 I dream of building AI that doesn’t just compute — but understands and supports, just like J.A.R.V.I.S.
 
